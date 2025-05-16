@@ -1,2 +1,2 @@
-# ARIO
-Go
+# ARIO Project
+This is a test repository.
